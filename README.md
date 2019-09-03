@@ -10,13 +10,13 @@ stow <path of file>
 ### Important Extras
 Use the following links to get my extras
 
-[Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh)
-[rofi](https://github.com/DaveDavenport/rofi)
-[gVim](https://www.vim.org/download.php)
-[i3](https://i3wm.org/)
-[nm-applet](https://help.ubuntu.com/community/NetworkManager) Follow install instructions
-[pasytray](https://github.com/christophgysin/pasystray)
-[feh](https://www.maketecheasier.com/feh-image-viewer/) Follow install instructions for Ubuntu
+* [Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh)
+* [rofi](https://github.com/DaveDavenport/rofi)
+* [gVim](https://www.vim.org/download.php)
+* [i3](https://i3wm.org/)
+* [nm-applet](https://help.ubuntu.com/community/NetworkManager) Follow install instructions
+* [pasytray](https://github.com/christophgysin/pasystray)
+* [feh](https://www.maketecheasier.com/feh-image-viewer/) Follow install instructions for Ubuntu
 
 ### Useful Link
 Follow [this](https://www.youtube.com/watch?v=j1I63wGcvU4) useful video series to set up i3 beautifully (some of it is a little outdated as of 2019)
