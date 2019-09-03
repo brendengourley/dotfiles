@@ -1,0 +1,3 @@
+rofi.theme:         sidetab
+rofi.font:          hack 15
+rofi.modi:          drun,run
